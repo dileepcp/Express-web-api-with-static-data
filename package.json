@@ -1,0 +1,14 @@
+{
+  "name": "expresswebapi",
+  "version": "1.0.0",
+  "description": "web api with static data using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Dileep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
